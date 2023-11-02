@@ -6,7 +6,7 @@ To comprehensively evaluate and assess the company's historical performance over
 **DATA EXTRACTION:** <br>
 The data was [extracted](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Extraction.pbix) from the company's SQL server <br><br>
 **DATA ASSESSMENT** <br>
-Assesment is <br?<br>
+Assesment is <br><br>
 **DATA TRANSFORMATION**<br>
 **DATA MODELLING**<br>
 **VISUALIZATION**<br>
