@@ -8,5 +8,8 @@ The data was [extracted](https://github.com/bankoleifeolukayode/Project-1/blob/m
 **DATA ASSESSMENT** <br>
 Assesment is <br><br>
 **DATA TRANSFORMATION**<br>
+Transformation blah blah <br><br>
 **DATA MODELLING**<br>
+Modelling that is sssssssooooooo <br><br>
 **VISUALIZATION**<br>
+Visualizing your future <br><br>
