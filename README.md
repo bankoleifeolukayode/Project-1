@@ -17,9 +17,10 @@ The column ditribution, column profile and column quality was elucidated from th
 **DATA TRANSFORMATION**<br>
 Transformation was done on the already assessed data. The data had alot of issues and required thorough cleaning, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The [Transformed Data](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Transformation.pbix) was then saved and made ready for the Data Modelling. <br><br>
 **DATA MODELLING**<br>
-Power BI's data modeling capabilities were used to create relationships between different datasets, enabling a holistic view of the organization's performance. <br><br>
-**VISUALIZATION**<br>
-Various Power BI visualizations, such as Column charts, pie charts, and maps, were employed to create compelling visual representations of the data. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) such as profit margins was analyzed over time to assess the company's overall performance in the regions where sales took place. <br><br>
+Power BI's data modeling capabilities were used to create relationships between different datasets. Data hieracchy and date table creation using DAX was done, enabling a holistic view of the organization's performance. <br><br>
+**VISUALIZATION** <br>
+Various Power BI [visualizations](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Visualization.pbix), such as Column charts, pie charts, and maps, were employed to create compelling visual representations of the data. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) such as profit margins was analyzed over time to assess the company's overall performance in the regions where sales took place. <br><br>
+
 **DASHBOARD CREATION:** A user-friendly Power BI dashboard was developed to present the insights in an intuitive and interactive manner. Users could filter data, drill down into specific time periods, and gain a deep understanding of the company's performance.<br><br>
 
 **PROJECT OUTCOMES:** <br>
