@@ -13,7 +13,7 @@ Enhance data transparency and accessibility for stakeholders. <br>
 **DATA EXTRACTION:** <br>
 The data was [extracted](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Extraction.pbix) from the company's SQL server. <br><br>
 **DATA ASSESSMENT** <br>
-The column ditribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces and data uniqueness and distintiveness.   <br><br>
+The column distribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces and data uniqueness and distintiveness.   <br><br>
 **DATA TRANSFORMATION**<br>
 Transformation was done on the already assessed data. The data had alot of issues and required thorough cleaning, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The [Transformed Data](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Transformation.pbix) was then saved and made ready for the Data Modelling. <br><br>
 **DATA MODELLING**<br>
